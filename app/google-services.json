@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "214576811077",
+    "firebase_url": "https://abtesttryout.firebaseio.com",
+    "project_id": "abtesttryout",
+    "storage_bucket": "abtesttryout.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214576811077:android:3fcd432533069601",
+        "android_client_info": {
+          "package_name": "com.example.julianschoemaker.abtesttryout"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "214576811077-4enht9kl9q8cr6cpqli64s7h9h2tcolf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADlGxUEjF9ulpA0PF-18lEx5rV2In1RM4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
